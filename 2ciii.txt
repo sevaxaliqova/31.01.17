@@ -1,0 +1,41 @@
+Evvelce client side ve server side anlayislarini daxil edik.
+
+Server iki hisseden ibaretdir: dinamik ve stabil
+
+Server(server side) - client ehtiyacina bagli olaraq web sehifelerini teqdim edir.
+
+Client(client side)- serverden sehifeler isteyen,onlari son istifadeciye gosteren teref, bir sozle desek,client proqramina bir web brauzer deyirik.
+
+Client side ve server side anlayislarinda proqramlasdirma ucun istifade olunan dillerde de ferqler ortaya cixir:
+
+Server terefinden proqramlasdirma ucun istifade
+
+edile bilecek muxtelif diller vardir:
+
+PHP
+
+ASP.NET (C# ve ya Visual Basic)
+
+C++
+
+Java ve JSP
+
+Python
+
+Ruby on Rails ve s.
+
+Client terefinden proqramlasdirma ucun istifade
+
+edile bilecek muxtelif diller vardir:
+
+JavaScript
+
+VBScript
+
+HTML (Tikinti)
+
+CSS (Tasarlama)
+
+AJAX
+
+JQuery vs.
